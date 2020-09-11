@@ -36,7 +36,7 @@
     "koa-router": "^7.4.0",
     "mkdirp": "^0.5.1",
     "moviedb-promise": "^1.4.1",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^2.6.1",
     "node-watch": "^0.5.5",
     "nodejs-websocket": "^1.7.1",
     "send-seekable": "^1.0.4",
